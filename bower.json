@@ -1,0 +1,17 @@
+{
+  "name": "adv_fe",
+  "description": "adv-fe project",
+  "main": "",
+  "authors": [
+    "Nikolay Karataev <nikolay@karataev.net>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nkarataev/adv-fe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
